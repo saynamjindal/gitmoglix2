@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from b2
+=======
+hgh
+>>>>>>> main
